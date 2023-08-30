@@ -3,6 +3,7 @@ package edu.aed.cap10agenda;
 import java.util.*;
 public class Agenda {
     /*hp, a3fa1*/
+    /*2 tedst*/
 	public static final boolean ERROR= false;
 	public static final boolean CORRECTO= true;
 	public static final String SEPARADOR= "\n";
